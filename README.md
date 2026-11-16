@@ -4,7 +4,7 @@
 
 </div>
 
-Every smart contract [ErgoDEX](https://app.ergodex.io) trades against, places orders with or reads on the Ergo blockchain — **24 contracts, 14 of them live** — with the hashes you need to find and check any of their boxes yourself.
+Every smart contract [ErgoDEX](https://ergodex.io) trades against, places orders with or reads on the Ergo blockchain — **24 contracts, 14 of them live** — with the hashes you need to find and check any of their boxes yourself.
 
 ErgoDEX is non-custodial and deploys no contracts of its own: swaps go through public pools, and orders are boxes under their authors’ contracts. Your wallet signs every transaction; funds in an order stay in its box until it is filled at your price or better, expires, or you cancel it.
 
