@@ -54,7 +54,7 @@
         },
         {
           "name": "V3 range (Crux concentrated liquidity)",
-          "what": "One liquidity range of a V3 pool. Its script carries the hash of Crux’s CL validator and the NFT of the configuration it follows, here Crux’s pre-launch configuration on mainnet.",
+          "what": "One liquidity range of a V3 pool. Its script carries the hash of Crux's CL validator and the NFT of the configuration it follows, here Crux's pre-launch configuration on mainnet.",
           "status": "live",
           "hashes": [
             {
@@ -77,7 +77,7 @@
         },
         {
           "name": "Full range pool (Crux), ERG/token",
-          "what": "Constant-product pool of ERG and one token on Crux’s contracts. It follows the same configuration NFT as V3.",
+          "what": "Constant-product pool of ERG and one token on Crux's contracts. It follows the same configuration NFT as V3.",
           "status": "live",
           "hashes": [
             {
@@ -96,7 +96,7 @@
         },
         {
           "name": "Full range pool (Crux), token/token",
-          "what": "Constant-product pool of two tokens on Crux’s contracts, the same configuration.",
+          "what": "Constant-product pool of two tokens on Crux's contracts, the same configuration.",
           "status": "live",
           "hashes": [
             {
@@ -169,7 +169,7 @@
         },
         {
           "name": "SigmaUSD bank",
-          "what": "Mints and redeems SigUSD and SigRSV against ERG at the oracle’s price. The code finds it by its NFT rather than by a template.",
+          "what": "Mints and redeems SigUSD and SigRSV against ERG at the oracle's price. The code finds it by its NFT rather than by a template.",
           "status": "live",
           "hashes": [
             {
